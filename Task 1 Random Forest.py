@@ -1,3 +1,5 @@
+#task 1: create a random forest with stated width, height and density (num_of_trees/area)
+
 def createForest(width, height, density):
 	from random import randint
 	forest = [] # Initialise empty list

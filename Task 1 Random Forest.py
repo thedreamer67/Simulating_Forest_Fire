@@ -1,4 +1,5 @@
-#task 1: create a random forest with stated width, height and density (num_of_trees/area)
+# Task 1: create a random forest with stated width, height and density (num_of_trees/area)
+# output: a 2D matrix of 0s and 1s to represent water and trees
 
 def createForest(width, height, density):
 	from random import randint

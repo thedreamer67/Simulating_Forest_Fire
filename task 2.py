@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt #needed for plotting
 from matplotlib import animation #needed to make a movie
 import matplotlib as mpl #needed for plotting
 
-# Task 2
+# Task 2: define a function that takes in a 2D matrix which is the forest, and sets it on fire
+# output: a gif file of the input forest on fire from start to end
 
 forest = [[1,0,1,1,0],
           [0,1,1,0,1],
